@@ -7,10 +7,9 @@
     "start": "electron .",
     "build": "electron-builder"
   },
-  "dependencies": {
-    "electron": "^16.0.8"
-  },
+  
   "devDependencies": {
-    "electron-builder": "^22.14.13"
+    "electron-builder": "^22.14.13",
+    "electron": "^16.0.8"
   }
 }
