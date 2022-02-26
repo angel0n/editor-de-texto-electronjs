@@ -1,0 +1,16 @@
+{
+  "name": "editor",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder"
+  },
+  "dependencies": {
+    "electron": "^16.0.8"
+  },
+  "devDependencies": {
+    "electron-builder": "^22.14.13"
+  }
+}
